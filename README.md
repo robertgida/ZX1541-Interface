@@ -1,7 +1,7 @@
 # ZX1541-Interface
 An interface for the Sinclair ZX-81, with which you can use Commodore VC-1541 floppy drives.
 
-![Image of 1541 ZXInterface](https://github.com/DL2DW/ZX1541-Interface/blob/main/Pics/ZX1541_Interface.jpg)
+![Image of 1541 ZXInterface](https://github.com/robertgida/ZX1541-Interface/blob/main/Pics/ZX1541_Interface.jpg)
 
 Inspired by this post (https://forum.tlienhard.com/phpBB3/viewtopic.php?f=2&t=3218), I rebuilt the interface. 
 
@@ -18,7 +18,7 @@ I then created a new schematic using the information available there. Additional
 
 The board is designed to fit into an old case of the original Sinclair 16kb RAM expansion.
 
-![Image of 1541 ZXInterface PCB](https://github.com/DL2DW/ZX1541-Interface/blob/main/Pics/ZX1541_PCB.jpg)
+![Image of 1541 ZXInterface PCB](https://github.com/robertgida/ZX1541-Interface/blob/main/Pics/ZX1541_PCB.jpg)
 
 For the interface to work, a memory expansion is required. Without it there is not enough memory available for the extension to work. The best way to do this is to upgrade the ZX-81 internally.
 
@@ -30,7 +30,7 @@ The interface is equipped with an EEPROM, which contains the firmware. This can 
 
 In firmware version 1.3 the start screen looks like this:
 
-![Screenshot](https://github.com/DL2DW/ZX1541-Interface/blob/main/Pics/Screenshot.jpg)
+![Screenshot](https://github.com/robertgida/ZX1541-Interface/blob/main/Pics/Screenshot.jpg)
 
 ## Parts List ##
 
